@@ -15,7 +15,7 @@ public class Gibsonsopmode extends LinearOpMode{
     @Override
     public void runOpMode() {
         //Initialization code
-        telemetry.addData("Seagulls... stop it now!!! ad sponsered by yourmom.com", 0);
+        telemetry.addData("play minecraft ad sponsered by yourmom.com", 0);
         telemetry.addData("please open README.Scam with your IP address visibly on your screen!!!", 0);
         waitForStart();
 
